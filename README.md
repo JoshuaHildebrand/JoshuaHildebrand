@@ -1,13 +1,3 @@
-## Hi there 👋
-
-<!--
-**JoshuaHildebrand/JoshuaHildebrand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
-</picture
-
 
 ## About Me
 Hello, I'm Joshua Hildebrand, an economics major at the University of Maryland: College Park. I am looking for opportunities to apply data science to expand my knowledge in economics.
