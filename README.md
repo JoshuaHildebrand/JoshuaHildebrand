@@ -6,6 +6,6 @@ Hello, I'm Joshua Hildebrand, an economics major at the University of Maryland: 
 
 |Project|Description|Reference|
 |-------|-----------|---------|
-|FIRE Light Rail Research|Research aimed to understand the signifiance of public transit on air quality in Houston, Texas.|[Link1](https://github.com/umdfiresa2024/team-houston/)|
+|FIRE Light Rail Research|Research aimed to understand the signifiance of public transit on air quality in Houston, Texas.|[Houston Light Rail](https://github.com/umdfiresa2024/team-houston/)|
 
 
