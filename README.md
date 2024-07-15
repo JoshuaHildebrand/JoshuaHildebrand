@@ -5,5 +5,7 @@ Hello, I'm Joshua Hildebrand, an economics major at the University of Maryland: 
 ## 🎯 Projects
 
 |Project|Description|Reference|
+|-------|-----------|---------|
+|project1|Description1|Link1|
 
 
